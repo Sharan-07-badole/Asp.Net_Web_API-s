@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\controllers\\crudapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\controllers\\crudapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\controllers\\crudmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\controllers\\crudmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\views\\crudmvc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\views\\crudmvc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\views\\crudmvc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\views\\crudmvc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\views\\crudmvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\views\\crudmvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\views\\crudmvc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\views\\crudmvc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\views\\crudmvc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\views\\crudmvc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\models\\employee.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\models\\employee.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\models\\employee.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\models\\employee.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|c:\\users\\hp\\source\\repos\\web_api\u0027s_asp.net\\curd_asp_api_mvc\\curd_asp_api_mvc\\models\\employee.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F30DB954-81B4-4212-94B6-1C739B60F816}|Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc.csproj|solutionrelative:curd_asp_api_mvc\\models\\employee.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:53:40.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\Web.config",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Views\\Web.config",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-24T17:52:23.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Web.Release.config",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Web.Release.config",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Web.Release.config",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-24T17:52:07.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Web.Debug.config",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-24T17:51:59.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Delete.cshtml",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T15:08:08.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Details.cshtml",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Details.cshtml",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T14:20:25.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Edit.cshtml",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T12:15:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:42:29.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Index.cshtml",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Index.cshtml",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:42:14.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrudMvcController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Controllers\\CrudMvcController.cs",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Controllers\\CrudMvcController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Controllers\\CrudMvcController.cs",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Controllers\\CrudMvcController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAswJIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:15:07.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:09:23.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrudApiController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Controllers\\CrudApiController.cs",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Controllers\\CrudApiController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Controllers\\CrudApiController.cs",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Controllers\\CrudApiController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswEYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:07:28.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:09:13.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Create.cshtml",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Create.cshtml",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Views\\CrudMvc\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T11:49:39.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.Context.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Models\\Employee.Context.cs",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Models\\Employee.Context.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Models\\Employee.Context.cs",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Models\\Employee.Context.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:06:17.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.Context.tt",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Models\\Employee.Context.tt",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Models\\Employee.Context.tt",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Models\\Employee.Context.tt",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Models\\Employee.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-24T09:06:13.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Models\\Employee.edmx",
+              "RelativeDocumentMoniker": "Curd_Asp_Api_Mvc\\Models\\Employee.edmx",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Web_Api\u0027s_Asp.net\\Curd_Asp_Api_Mvc\\Curd_Asp_Api_Mvc\\Models\\Employee.edmx [Diagram1]",
+              "RelativeToolTip": "Curd_Asp_Api_Mvc\\Models\\Employee.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-24T09:04:41.58Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

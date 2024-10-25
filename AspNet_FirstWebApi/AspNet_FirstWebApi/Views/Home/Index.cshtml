@@ -1,0 +1,83 @@
+﻿<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        <h1 id="aspnetTitle">ASP.NET</h1>
+        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
+        <p><a href="https://asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+    </section>
+    <div class="row">
+        <section class="col-md-4" aria-labelledby="gettingStartedTitle">
+            <h2 id="gettingStartedTitle">Getting started</h2>
+            <p>ASP.NET Web API is a framework that makes it easy to build HTTP services that reach
+            a broad range of clients, including browsers and mobile devices. ASP.NET Web API
+            is an ideal platform for building RESTful applications on the .NET Framework.</p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301870">Learn more &raquo;</a></p>
+        </section>
+        <section class="col-md-4" aria-labelledby="librariesTitle">
+            <h2 id="librariesTitle">Get more libraries</h2>
+            <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301871">Learn more &raquo;</a></p>
+        </section>
+        <section class="col-md-4" aria-labelledby="hostingTitle">
+            <h2 id="hostingTitle">Web Hosting</h2>
+            <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301872">Learn more &raquo;</a></p>
+        </section>>
+    </div>
+</main>
+
+@* This above details is come by default, when we selected mvc and web api at starting.
+ First we created the jquery.js file in script copy pasted compressed data from jquery website
+ and droaged the page and dropped here below is what we got as link automatically
+ Now we are fetching data from api which we created in our EmployeeData controller 
+ To comsume / use that data from api we are using jquery , through jquery we are fetchinf the data and showing on view..
+ we are converting the xml data from api to json and then displaying on view i.e on this current index page*@
+
+<script src="~/Scripts/jqurey.js"></script>
+
+<input type="button" value="Get All Details" id="btn1"/>
+
+<input type="text" placeholder="Enter id to get data" id="txt"/>
+
+<input type="button" value="Get Emp by Id" id="btn2"/>
+
+<input type="button" value="Clear" id="btn3"/>
+
+<div id="showdata">
+
+</div>
+
+<script>
+    // when this document / view is ready or runs first time we have to ready and running one function
+    $(document).ready(function () {
+        // when user click on btn2 that is for data according to id 
+        $("#btn2").click(function () {
+            // fetching id from the text box to passing with http request
+            var id = $("#txt").val();
+            $.getJSON('/api/EmployeeData/' + id, function (responseData) {
+                // we have to show only value so we are storing the data into var variable 
+                var item = "<h2>" + responseData + "</h2>";
+                // and append the data to the div which has id view and o/p it will display
+                $(item).appendTo("#showdata");
+            });
+        });
+        // when user click on btn3
+        $("#btn3").click(function () {
+            // that is for clear the data so call function for empty the the data
+            $("#showdata").empty();
+        });
+        // and then when btn1 click we have to fetch data from api (that returns data in the form of xml) run the fn
+        $("#btn1").click(function () {
+            // now id we want to consume the data from api in json format ,we are converting in json and run fn and 
+            //we are storing the data in side fn of variable responsedata 
+            $.getJSON('/api/EmployeeData', function (responseData) {
+                // fetching data from responsedata by using each loop and run fn and store data in the key and value
+                $.each(responseData, function (key, value) {
+                    // we have to show only value so we are storing the data into var variable 
+                    var item = "<h2>" + value + "</h2>";
+                    // and append the data to the div which has id view and o/p it will display
+                    $(item).appendTo("#showdata");
+                });
+            });
+        });
+    });
+</script>
